@@ -1,8 +1,4 @@
 ## Hi there 👋
-
-<!--
-**ARMOD07/ARMOD07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 👋 Salut, je suis Amira Mohammedi  
 
 🎓 Ingénieure en High Performance Computing (HPC)  
@@ -21,5 +17,9 @@
 
 ### 📊 Statistiques GitHub
 ![Stats](https://github-readme-stats.vercel.app/api?username=MiraMHD&show_icons=true&theme=tokyonight)
+
+<!--
+**ARMOD07/ARMOD07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 -->
