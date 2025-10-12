@@ -10,14 +10,12 @@
 ### 🔧 Compétences
 - Python, C, SQL  
 - Machine Learning : scikit-learn, TensorFlow, PyTorch  
-- Visualisation : Power BI, Matplotlib  
+- Visualisation :  Matplotlib  
 - Systèmes : Linux, Git, Docker  
 
 ---
 
-### 📊 Statistiques GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=MiraMHD&show_icons=true&theme=tokyonight)
-
+ 
  
  
 
