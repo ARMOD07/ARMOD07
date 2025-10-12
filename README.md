@@ -3,14 +3,23 @@
 <!--
 **ARMOD07/ARMOD07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Salut, je suis Amira Mohammedi  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🎓 Ingénieure en High Performance Computing (HPC)  
+💡 Passionnée par le Machine Learning, Deep Learning et la Data Science  
+📊 J’aime créer des modèles et analyser les performances des systèmes  
+
+---
+
+### 🔧 Compétences
+- Python, C, SQL  
+- Machine Learning : scikit-learn, TensorFlow, PyTorch  
+- Visualisation : Power BI, Matplotlib  
+- Systèmes : Linux, Git, Docker  
+
+---
+
+### 📊 Statistiques GitHub
+![Stats](https://github-readme-stats.vercel.app/api?username=MiraMHD&show_icons=true&theme=tokyonight)
+
 -->
