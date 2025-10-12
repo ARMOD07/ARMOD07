@@ -3,12 +3,12 @@
 
 🎓 Ingénieure en High Performance Computing (HPC)  
 💡 Passionnée par le Machine Learning, Deep Learning et la Data Science  
-📊 J’aime créer des modèles et analyser les performances des systèmes  
+📊  
 
 ---
 
 ### 🔧 Compétences
-- Python, C, SQL  
+- Python,  SQL  
 - Machine Learning : scikit-learn, TensorFlow, PyTorch  
 - Visualisation :  Matplotlib  
 - Systèmes : Linux, Git, Docker  
