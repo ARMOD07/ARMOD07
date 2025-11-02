@@ -1,20 +1,18 @@
-## Hi there 👋
-# 👋 Salut, je suis Amira Mohammedi  
+👋 Hi, I’m Amira Mohammedi
 
-🎓 Ingénieure en High Performance Computing (HPC)  
-💡 Passionnée par le Machine Learning, Deep Learning et la Data Science  
-📊  
+🎓 Engineer in High Performance Computing (HPC)
+💡 Passionate about Machine Learning, Deep Learning, and Data Science
+📊
 
----
+🔧 Skills
 
-### 🔧 Compétences
-- Python,  SQL  
-- Machine Learning : scikit-learn, TensorFlow, PyTorch  
-- Visualisation :  Matplotlib  
-- Systèmes : Linux, Git, Docker  
+Programming: Python, SQL
 
----
+Machine Learning: scikit-learn, TensorFlow, PyTorch
 
+Visualization: Matplotlib
+
+Systems & Tools: Linux, Git, Docker
  
  
  
@@ -33,7 +31,7 @@
 
 📧 **amiramohammedi07@gmail.com**  
 
-🔗 [**Linktree**](https://linktr.ee/)  
+ 
 💼 [**LinkedIn**](https://www.linkedin.com/in/amira-mohammedi)  
 💻 [**GitHub**](https://github.com/MiraMHD)
 
