@@ -25,8 +25,4 @@ Systems & Tools: Linux, Git, Docker
 💼 [**LinkedIn**](https://www.linkedin.com/in/amira-mohammedi)  
 💻 [**GitHub**](https://github.com/MiraMHD)
 
----
-
-
-
--->
+ 
