@@ -11,6 +11,9 @@
 - **Using Databases with Python** – Coursera (University of Michigan)  
 - **MALOP** – ZOOMCAMP / Datatalks.club  
 - **Machine Learning Zoomcamp** – Datatalks.club
+
+
+
 🔧 Skills
 
 Programming: Python, SQL
