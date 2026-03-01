@@ -4,12 +4,13 @@
 💡 Passionate about Machine Learning, Deep Learning, and Data Science
 📊
 
-  🏆 Certifications
+ ## 🏆 Certifications
 
-- **Supervised Machine Learning: Regression and Classification** – Coursera (Stanford & DeepLearning.AI)  
-- **Advanced Learning Algorithms** – Coursera  
-- **Using Databases with Python** – Coursera (University of Michigan)  
-- **MALOP** – ZOOMCAMP / Datatalks.club  
+- **Machine Learning Data Lifecycle in Production** – [Coursera](https://www.coursera.org/account/accomplishments/verify/SCR78VO6YXC8)  
+- **Supervised Machine Learning: Regression and Classification** – [Coursera](https://www.coursera.org/account/accomplishments/verify/LZEMAE9BJRL6)  
+- **Advanced Learning Algorithms** – [Coursera](https://www.coursera.org/account/accomplishments/verify/DTURYPKAKQ4U)  
+- **Using Databases with Python** – [Coursera](https://www.coursera.org/account/accomplishments/verify/X5TTQEHDEM6B)  
+- **MALOP – ZOOMCAMP** – Datatalks.club  
 - **Machine Learning Zoomcamp** – Datatalks.club
 
 
