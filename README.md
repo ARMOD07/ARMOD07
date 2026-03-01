@@ -18,11 +18,11 @@ Systems & Tools: Linux, Git, Docker
  
  
 
-## 📫 Contact
-📧 **amiramohammedi07@gmail.com**  
+## 📫 Contact & Profiles
 
- 
-💼 [**LinkedIn**](https://www.linkedin.com/in/amira-mohammedi)  
-💻 [**GitHub**](https://github.com/MiraMHD)
-
+- **Email:** [amiramohammedi07@gmail.com](mailto:amiramohammedi07@gmail.com)  
+- **LinkedIn:** [https://www.linkedin.com/in/amira-mohammedi](https://www.linkedin.com/in/amira-mohammedi)  
+- **GitHub:** [https://github.com/MiraMHD](https://github.com/MiraMHD)  
+- **Kaggle:** [https://www.kaggle.com/amiramohammedi07](https://www.kaggle.com/amiramohammedi07)  
+- **X / Twitter:** [https://x.com/AMIRAMOHAM7](https://x.com/AMIRAMOHAM7) 
  
