@@ -1,13 +1,14 @@
- 
- 
+Hi, I'm Amira Mohammedi 👋
 
-
-# Hi, I'm Amira Mohammedi 👋
-
-🎓 **Master's in Computer Science — HPC & AI**  
+🎓 **Master's in Computer Science — HPC & AI** 
  
 
 ---
+
+I am Mohammedi Amira, a Computer Science Engineer specialized in High Performance Computing (HPC) and Artificial Intelligence. I am passionate about developing solutions based on Machine Learning and Deep Learning, with a strong interest in building intelligent systems that solve real-world problems. Curious, autonomous, and highly motivated, I aim to contribute to innovative AI projects that create a positive social impact.
+
+---
+ 
 
 ## 🛠️ Tech Stack
 
@@ -22,7 +23,7 @@
 
  
 
----
+ 
 
 ## 📜 Certifications
 
