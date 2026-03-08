@@ -1,41 +1,68 @@
-👋 Hi, I’m Amira Mohammedi
-
-🎓 Engineer in High Performance Computing (HPC)
-💡 Passionate about Machine Learning, Deep Learning, and Data Science
-📊
-
- ## 🏆 Certifications
-
-- **Machine Learning Data Lifecycle in Production** – [Coursera](https://www.coursera.org/account/accomplishments/verify/SCR78VO6YXC8)  
-- **Supervised Machine Learning: Regression and Classification** – [Coursera](https://www.coursera.org/account/accomplishments/verify/LZEMAE9BJRL6)  
-- **Advanced Learning Algorithms** – [Coursera](https://www.coursera.org/account/accomplishments/verify/DTURYPKAKQ4U)  
-- **Using Databases with Python** – [Coursera](https://www.coursera.org/account/accomplishments/verify/X5TTQEHDEM6B)  
-- **MALOP – ZOOMCAMP** – Datatalks.club  
-- **Machine Learning Zoomcamp** – Datatalks.club
-
-
-
-🔧 Skills
-
-Programming: Python, SQL
-
-Machine Learning: scikit-learn, TensorFlow, PyTorch
-
-Visualization: Matplotlib
-
-Systems & Tools: Linux, Git, Docker
- 
- 
- 
- 
-
-
-## 📫 Contact & Profiles
-
-[![Email](https://img.shields.io/badge/Email-amiramohammedi07@gmail.com-blue?style=for-the-badge&logo=gmail)](mailto:amiramohammedi07@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amira-mohammedi)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/MiraMHD)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/amiramohammedi07)  
-[![X](https://img.shields.io/badge/X-Profile-blue?style=for-the-badge&logo=twitter)](https://x.com/AMIRAMOHAM7)  
- 
- 
+# Welcome to your Lovable project
+# 👋 Amira Mohammedi
+## Project info
+**Engineer in High Performance Computing (HPC)**
+Passionate about Machine Learning, Deep Learning, and Data Science 📊
+**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## 🏆 Certifications
+## How can I edit this code?
+- Machine Learning Data Lifecycle in Production – Coursera
+- Supervised Machine Learning: Regression and Classification – Coursera
+- Advanced Learning Algorithms – Coursera
+- Using Databases with Python – Coursera
+- MALOP – ZOOMCAMP – DataTalks.club
+- Machine Learning Zoomcamp – DataTalks.club
+There are several ways of editing your application.
+## 🔧 Skills
+**Use Lovable**
+| Category | Technologies |
+|---|---|
+| Programming | Python, SQL |
+| Machine Learning | scikit-learn, TensorFlow, PyTorch |
+| Visualization | Matplotlib |
+| Systems & Tools | Linux, Git, Docker |
+Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## 🛠 Tech Stack
+Changes made via Lovable will be committed automatically to this repo.
+This portfolio is built with **React**, **TypeScript**, **Vite**, **Tailwind CSS**, and **shadcn/ui**.
+**Use your preferred IDE**
+## 📫 Contact
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+- [GitHub](https://github.com/ARMOD07)
+- [LinkedIn](https://linkedin.com)
+- Email: contact@example.com
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Follow these steps:
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
+# Step 3: Install the necessary dependencies.
+npm i
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
+```
+**Edit a file directly in GitHub**
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
+**Use GitHub Codespaces**
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
+## What technologies are used for this project?
+This project is built with:
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
+## How can I deploy this project?
+Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+## Can I connect a custom domain to my Lovable project?
+Yes, you can!
+To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
