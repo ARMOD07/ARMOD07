@@ -1,22 +1,11 @@
  
-Hi, I'm Amira Mohammedi 👋
-🎓 Master's in Computer Science — HPC & AI | USTHB 
-
-📜 Certifications
-
-✅ Machine Learning Zoomcamp — DataTalks.Club
-✅ MLOps Zoomcamp — DataTalks.Club
-✅ Supervised Machine Learning — Stanford & DeepLearning.AI
-✅ Advanced Learning Algorithms — DeepLearning.AI
-✅ ML Data Lifecycle in Production — DeepLearning.AI
-
+ 
 
 
 # Hi, I'm Amira Mohammedi 👋
 
-🎓 **Master's in Computer Science — HPC & AI** | USTHB, Algeria  
-🤖 **Machine Learning Engineer** | Deep Learning | Data Science  
-🌍 **Remote-friendly** | French (C1) · Arabic (native) · English (B1)
+🎓 **Master's in Computer Science — HPC & AI**  
+ 
 
 ---
 
@@ -31,15 +20,7 @@ Hi, I'm Amira Mohammedi 👋
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🦴 KneeKG Medical AI | Therapeutic recommendation system for knee osteoarthritis | Deep Learning, TensorFlow |
-| 🔥 [Fire Detection](https://github.com/ARMOD07/fire_detection) | Real-time fire detection with Computer Vision | CNN, OpenCV |
-| 👤 [Face Age & Gender](https://github.com/ARMOD07/face_age_gender_detection) | Age and gender prediction from images | Keras, OpenCV |
-| 📦 [Object Detection](https://github.com/ARMOD07/Object_Detection) | Real-time object detection with YOLO | PyTorch, YOLO |
-| 📈 [ML Zoomcamp](https://github.com/ARMOD07/Machine_Learning_Zoomcamp-) | End-to-end ML projects with deployment | scikit-learn, Docker |
+ 
 
 ---
 
