@@ -2,6 +2,7 @@
 # Hi, I'm Amira Mohammedi 👋
 
 🎓 **Master's in Computer Science — HPC & AI** 
+
 🤖 **Machine Learning ** | Deep Learning | Data Science 
 🌍   
 ---
