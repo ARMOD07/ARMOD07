@@ -6,7 +6,7 @@
 
 🤖 **Machine Learning** | Deep Learning | Data Science 
 
-🌍   
+🌍  https://armod07.github.io/amiramohammedi7.github.io/ 
 ---
 
 I am Mohammedi Amira, a Computer Science Engineer specialized in High Performance Computing (HPC) and Artificial Intelligence. I am passionate about developing solutions based on Machine Learning and Deep Learning, with a strong interest in building intelligent systems that solve real-world problems. Curious, autonomous, and highly motivated, I aim to contribute to innovative AI projects that create a positive social impact.
